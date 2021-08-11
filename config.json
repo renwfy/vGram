@@ -7,7 +7,7 @@
       "url": "https://t.me/TGDY188",
       "chat_type": "channel",
       "show_type": "public",
-      "access_hash": ""
+      "access_hash": 0
     },
     {
       "enable": true,
@@ -16,7 +16,7 @@
       "url": "https://t.me/dibai0171",
       "chat_type": "channel",
       "show_type": "public",
-      "access_hash": ""
+      "access_hash": 0
     },
     {
       "enable": true,
@@ -25,7 +25,7 @@
       "url": "https://t.me/dianying2022",
       "chat_type": "channel",
       "show_type": "public",
-      "access_hash": ""
+      "access_hash": 0
     },
     {
       "enable": true,
@@ -34,7 +34,7 @@
       "url": "https://t.me/Cctv365",
       "chat_type": "channel",
       "show_type": "public",
-      "access_hash": ""
+      "access_hash": 0
     },
     {
       "enable": false,
@@ -43,7 +43,7 @@
       "url": "https://t.me/Baidu369a",
       "chat_type": "group",
       "show_type": "public",
-      "access_hash": ""
+      "access_hash": 0
     },
     {
       "enable": false,
@@ -52,7 +52,7 @@
       "url": "https://t.me/madoucn",
       "chat_type": "channel",
       "show_type": "private",
-      "access_hash": ""
+      "access_hash": 0
     },
     {
       "enable": false,
@@ -61,7 +61,7 @@
       "url": "https://t.me/ZuiChunLou",
       "chat_type": "channel",
       "show_type": "private",
-      "access_hash": ""
+      "access_hash": 0
     },
     {
       "enable": false,
@@ -70,7 +70,7 @@
       "url": "https://t.me/sn111777",
       "chat_type": "channel",
       "show_type": "private",
-      "access_hash": ""
+      "access_hash": 0
     }
   ]
 }
