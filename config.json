@@ -1,3 +1,76 @@
 {
-    "test":"123456"
+  "channels": [
+    {
+      "enable": true,
+      "name": "每天一部好电影",
+      "id": 1381849611,
+      "url": "https://t.me/TGDY188",
+      "chat_type": "channel",
+      "show_type": "public",
+      "access_hash": ""
+    },
+    {
+      "enable": true,
+      "name": "K.S电影频道",
+      "id": 1587897055,
+      "url": "https://t.me/dibai0171",
+      "chat_type": "channel",
+      "show_type": "public",
+      "access_hash": ""
+    },
+    {
+      "enable": true,
+      "name": "精品电影在线",
+      "id": 1268428917,
+      "url": "https://t.me/dianying2022",
+      "chat_type": "channel",
+      "show_type": "public",
+      "access_hash": ""
+    },
+    {
+      "enable": true,
+      "name": "电影频道",
+      "id": 1243851270,
+      "url": "https://t.me/Cctv365",
+      "chat_type": "channel",
+      "show_type": "public",
+      "access_hash": ""
+    },
+    {
+      "enable": false,
+      "name": "Telegram中文搜索",
+      "id": 1256269160,
+      "url": "https://t.me/Baidu369a",
+      "chat_type": "group",
+      "show_type": "public",
+      "access_hash": ""
+    },
+    {
+      "enable": false,
+      "name": "麻豆传媒",
+      "id": 1378654973,
+      "url": "https://t.me/madoucn",
+      "chat_type": "channel",
+      "show_type": "private",
+      "access_hash": ""
+    },
+    {
+      "enable": false,
+      "name": "怡红院",
+      "id": 1381322040,
+      "url": "https://t.me/ZuiChunLou",
+      "chat_type": "channel",
+      "show_type": "private",
+      "access_hash": ""
+    },
+    {
+      "enable": false,
+      "name": "福利院",
+      "id": 1566749916,
+      "url": "https://t.me/sn111777",
+      "chat_type": "channel",
+      "show_type": "private",
+      "access_hash": ""
+    }
+  ]
 }
