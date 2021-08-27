@@ -37,7 +37,7 @@
       "access_hash": 0
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "Telegram中文搜索",
       "id": 1256269160,
       "url": "https://t.me/Baidu369a",
@@ -46,7 +46,7 @@
       "access_hash": 0
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "麻豆传媒",
       "id": 1378654973,
       "url": "https://t.me/madoucn",
@@ -55,7 +55,7 @@
       "access_hash": 0
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "怡红院",
       "id": 1381322040,
       "url": "https://t.me/ZuiChunLou",
@@ -64,13 +64,30 @@
       "access_hash": 0
     },
     {
-      "enable": false,
+      "enable": true,
       "name": "福利院",
       "id": 1566749916,
       "url": "https://t.me/sn111777",
       "chat_type": "channel",
       "show_type": "private",
       "access_hash": 0
+    },
+    {
+      "enable": true,
+      "name": "SWAG精选",
+      "id": 1544755085,
+      "url": "https://t.me/AV8787A",
+      "chat_type": "channel",
+      "show_type": "private",
+      "access_hash": 0
     }
-  ]
+  ],
+  "adConfig": {
+    "itemAdEnable": true,
+    "floatAdEnable": true,
+    "fullAdEnable": true,
+    "itemAdRefreshTime": 1000,
+    "floatAdRefreshTime": 5000,
+    "fullAdRefreshTime": 60000
+  }
 }
