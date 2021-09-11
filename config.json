@@ -80,6 +80,15 @@
       "chat_type": "channel",
       "show_type": "private",
       "access_hash": 0
+    },
+    {
+      "enable": true,
+      "name": "JVID精品",
+      "id": 1308637334,
+      "url": "https://t.me/avling",
+      "chat_type": "channel",
+      "show_type": "private",
+      "access_hash": 0
     }
   ],
   "adConfig": {
