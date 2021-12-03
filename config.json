@@ -92,9 +92,9 @@
     }
   ],
   "adConfig": {
-    "itemAdEnable": false,
-    "floatAdEnable": false,
-    "fullAdEnable": false,
+    "itemAdEnable": true,
+    "floatAdEnable": true,
+    "fullAdEnable": true,
     "itemAdRefreshTime": 3000,
     "floatAdRefreshTime": 30000,
     "fullAdRefreshTime": 30000
