@@ -1,0 +1,34 @@
+{
+  "attributes" : [
+    {
+      "trait_type" : "level",
+      "value" : 3
+    },
+    {
+      "trait_type" : "stamina",
+      "value" : 11.7
+    },
+    {
+      "trait_type" : "personality",
+      "value" : "sleepy"
+    },
+    {
+      "display_type" : "boost_number",
+      "trait_type" : "aqua_power",
+      "value" : 30
+    },
+    {
+      "display_type" : "boost_percentage",
+      "trait_type" : "stamina_increase",
+      "value" : 15
+    },
+    {
+      "display_type" : "number",
+      "trait_type" : "generation",
+      "value" : 1
+    }
+  ],
+  "description" : "Earn Toncoin with your secure and private social graph.",
+  "image" : "https://raw.githubusercontent.com/renwfy/vGram/master/ton_nft.jpeg",
+  "name" : "Fountain ProfileNFT"
+}
