@@ -1,0 +1,31 @@
+{
+  "name": "Fountain ProfileNFT",
+  "description": "Earn Toncoin with your secure and private social graph.",
+  "image": "https://raw.githubusercontent.com/renwfy/vGram/master/ton_nft.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": "3"
+    },
+    {
+      "trait_type": "Attribute 1",
+      "value": "Yellow Birthday Cap"
+    },
+    {
+      "trait_type": "Attribute 2",
+      "value": "Pinkgreen Chain"
+    },
+    {
+      "trait_type": "Attribute 3",
+      "value": "Green VR"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Radial 3"
+    }
+  ]
+}
